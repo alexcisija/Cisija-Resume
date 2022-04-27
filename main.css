@@ -109,6 +109,7 @@ h1, h2, p{
 }
 #titles h2{
     font-size: 16px;
+    font-weight: normal;
 }
 
 #ttools{
